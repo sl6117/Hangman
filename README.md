@@ -1,5 +1,5 @@
 # Hangman 
-Welcome to my first personal project. \n
+Welcome to my first personal project.
 This is a simple single player game of Hangman.
 
 ## Instructions
