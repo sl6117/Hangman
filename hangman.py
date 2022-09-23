@@ -1,7 +1,7 @@
 import random
 
 #gets list of words
-with open('/Users/thomaslee/Desktop/personal projects/hangman/words.txt') as file:
+with open('/Users/thomaslee/Desktop/personal_projects/hangman/words.txt') as file:
     data = file.read()
     words =[]
 
